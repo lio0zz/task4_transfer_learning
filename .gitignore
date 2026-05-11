@@ -1,0 +1,26 @@
+# 参考文件（你放的文件夹）
+指导文件/
+
+# 数据集（太大，不提交）
+data/
+
+# Jupyter 自动生成的缓存
+.ipynb_checkpoints/
+.Trash-0/
+新建文件夹/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 任务自带的参考文件（如果在根目录）
+task_*.py
+任务指导书.*
+README.*
+*.pdf
+
+# 模型文件（如果有）
+*.pth
+*.ckpt
+*.h5
